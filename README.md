@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌐 Hi, I'm Aniket Sahu.
 
-<!--
-**Aniket02102001/Aniket02102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Web Developer | Backend Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🖥️ Passionate about building scalable web applications.  
+- 🌱 Currently learning advanced Flask, Django, and REST API integrations.  
+- 💻 Love exploring new tools and technologies in web development.  
+- 🔍 Focused on writing clean, efficient, and maintainable code.  
+
+---
+
+## 🛠️ Skills  
+
+### Programming Languages:  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-b
